@@ -1,0 +1,12 @@
+# trabajodec
+<!Doctype html>
+<body>
+<p>
+<p> ingrese su usuario y contraseña &ntilde;a
+<form action="javascript:verifica()"name=formlogin>
+<p>usuario<input type=text name=usu size=25 maxlength=22>
+<p> clave <input type=password name=clave size=25 maxlength=12>
+<p><input type=submit value=enviar>
+</form
+
+      
