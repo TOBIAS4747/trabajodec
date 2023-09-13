@@ -1,0 +1,22 @@
+# trabajodec
+<!Doctype html>
+<body bgcolor=8080fo>
+<p>crea tu cuenta para bue.com
+<p>que pagina!!!
+<form name=usuario action="javascript:muestra();">
+nombre<input name=nombre> <br>
+apellido<input name=apellido> <br>
+usuario<input name=usuario> <bi>
+clave<input name=clave1> <bi>
+Repila la clave <input name=clave2> <p>
+Menor edad<input type=rdio value=Menor name=r1>
+Mayor edad<input type=rdio name=r2 value=Mayor>
+<p> prefenrencias <br>
+<input type=checkbox name=pref value=F>Fulbo<br>
+<input type=checkbox name=pref value=C>Cocina<br>
+<input type=checkbox name=pref value=M>Musica<br>
+<input type=checkbox name=pref value=A>Armas<bi>
+<br>
+<input type=submit value=enviar>
+</form>
+</body>
